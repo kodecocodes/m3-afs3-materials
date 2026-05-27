@@ -11,4 +11,3 @@ struct Game {
     return awardedPoints
   }
 }
-

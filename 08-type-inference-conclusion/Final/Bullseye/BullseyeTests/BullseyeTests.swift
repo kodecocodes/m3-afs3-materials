@@ -24,4 +24,3 @@ final class BullseyeTests: XCTestCase {
     XCTAssertEqual(score, 95)
   }
 }
-
